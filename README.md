@@ -2,7 +2,7 @@
 
 - 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember
 
-- 🤖 I’m currently working on **VI-ROSE ITS Robotics Team**
+- 🤖 I’m currently working on [VI-ROSE ITS Robotics Team](https://www.instagram.com/virose.its)
 
 - 📫 How to reach me **farisrafp@gmail.com**
 
