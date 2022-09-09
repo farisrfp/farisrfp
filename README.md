@@ -2,7 +2,7 @@
 
 - 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember
 
-- 🤖 I’m currently working as **Programming Division on VI-ROSE ITS Robotics Team**
+- 🤖 I’m currently working ot **VI-ROSE ITS Robotics Team**
 
 - 📫 How to reach me **farisrafp@gmail.com**
 
@@ -19,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/E-tRosZXIAIkJvM.png" alt="autodesk" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://aws1.discourse-cdn.com/business6/uploads/dynamobim/original/3X/9/c/9cb59334933e869a96d1e9ad483c44d5f99e449c.png" alt="autodesk" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
