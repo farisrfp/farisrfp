@@ -2,7 +2,7 @@
 
 - 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember
 
-- 🤖 I’m currently working on [**VI-ROSE ITS Robotics Team**](https://www.instagram.com/virose.its)
+- 🤖 I’m currently handle hardware programming on [**VI-ROSE ITS Robotics Team**](https://www.instagram.com/virose.its)
 
 - 📫 How to reach me **farisrafp@gmail.com**
 
@@ -19,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<!-- <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://aws1.discourse-cdn.com/business6/uploads/dynamobim/original/3X/9/c/9cb59334933e869a96d1e9ad483c44d5f99e449c.png" alt="autodesk" width="40" height="40"/> </a> -->
+<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://aws1.discourse-cdn.com/business6/uploads/dynamobim/original/3X/9/c/9cb59334933e869a96d1e9ad483c44d5f99e449c.png](https://banner2.cleanpng.com/20180816/vwu/kisspng-autodesk-revit-logo-autocad-autodesk-inventor-5b753e10c9fed1.0693435115344102568274.jpg" alt="autodesk" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 </p>
