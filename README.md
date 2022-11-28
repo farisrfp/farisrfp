@@ -2,8 +2,7 @@
 
 - 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember
 
-- 🤖 I’m currently handle hardware programming on [**VI-ROSE ITS Robotics Team**](https://www.instagram.com/virose.its)
-
+<!-- - 🤖 I’m currently handle hardware programming on [**VI-ROSE ITS Robotics Team**](https://www.instagram.com/virose.its) -->
 - 📫 How to reach me **farisrafp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
