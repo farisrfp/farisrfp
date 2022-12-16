@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, NewJeans-imnida~
 
-
+<hr>
+  
 <p align="center">
   <img src="https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2022/2f15/22f15e3d01555e3de874ecd685f8bedb26e441ea308eab4a27d8798d4a8d374db_o_mv.gif" alt="animated" />
 </p>
