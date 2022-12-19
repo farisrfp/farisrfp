@@ -1,18 +1,18 @@
-<h1 align="center">Hi there👋, NewJeans-imnida~
+<h1 align="center">Hi there👋
 
 <hr>
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2022/2f15/22f15e3d01555e3de874ecd685f8bedb26e441ea308eab4a27d8798d4a8d374db_o_mv.gif" alt="animated" />
-</p>
+</p> -->
 
-<!-- - 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember -->
+- 🖥️ I’m **Computer Engineering Student** at Institut Teknologi Sepuluh Nopember
 
 <!-- - 🤖 I’m currently handle hardware programming on [**VI-ROSE ITS Robotics Team**](https://www.instagram.com/virose.its) -->
-<!-- - 📫 How to reach me **farisrafp@gmail.com** -->
+- 📫 How to reach me **farisrafp@gmail.com**
 
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/farisrfp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farisrfp" height="30" width="40" /></a>
 </p>
@@ -28,4 +28,4 @@
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Autodesk_Logo_A_only.svg" alt="autodesk" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   
-</p> -->
+</p>
