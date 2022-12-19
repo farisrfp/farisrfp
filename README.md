@@ -6,13 +6,10 @@
 - 📫 How to reach me **farisrafp@gmail.com**
 
 
-<img src="https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2022/2f15/22f15e3d01555e3de874ecd685f8bedb26e441ea308eab4a27d8798d4a8d374db_o_mv.gif" alt="animated"  width="400" align="right" />
-
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/farisrfp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farisrfp" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
