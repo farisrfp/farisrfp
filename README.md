@@ -9,8 +9,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farisrfp&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=farisrfp&theme=onedark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=farisrfp&theme=onedark&hide_border=false&include_all_commits=true&count_private=true) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=farisrfp&theme=onedark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farisrfp&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
