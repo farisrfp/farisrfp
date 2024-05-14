@@ -1,5 +1,7 @@
 <h1 align="center">Hi there👋, I'm Faris Rafi Pramana</h1>
 
+![gradient](./gradient.gif)
+
 # 💫 About Me:
 💻 I'm currently a Computer Engineering student<br>🌱 I'm interested in learning about Embedded Systems and the Internet of Things.<br> 📫 How to reach me **farisrafp@gmail.com**
 
