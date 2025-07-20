@@ -1,5 +1,4 @@
-
-<img src="./gradient.gif" width="100%" alt="gradient" />
+<img src="./banner.png" width="100%" alt="banner" />
 
 # Hi there👋, I'm Faris Rafi Pramana
 
@@ -19,5 +18,3 @@ Computer Engineering student who loves tinkering with electronics and 3D printin
     <img src="https://skillicons.dev/icons?i=vscode,figma,notion,latex" />
   </a>
 </p>
-
-<img src="./gradient.gif" width="100%" alt="gradient" />
